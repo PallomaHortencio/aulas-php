@@ -1,2 +1,2 @@
 # aulas-php
- atividades feitas nas aulas em php
+ Atividades feitas nas aulas de php
